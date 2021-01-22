@@ -1,0 +1,13 @@
+name: CaseOpening
+authors:
+  - byBackfish
+  - Red_55
+version: 0.1
+main: de.bybackfish.caseopening.main.CaseOpening
+description: CaseOpening Plugin for Claved.net
+database: true
+website: bybackfish.de
+commands:
+  test:
+    description: Just an Dev-Debug Command
+    usage: /test
